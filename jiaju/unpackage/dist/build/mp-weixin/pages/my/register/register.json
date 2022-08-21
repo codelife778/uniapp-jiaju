@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "乐居",
+  "navigationBarTitleText": "家居",
   "enablePullDownRefresh": false,
   "usingComponents": {
     "w-input": "/components/watch-login/watch-input",

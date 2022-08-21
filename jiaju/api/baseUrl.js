@@ -6,7 +6,8 @@ console.log("process.env.NODE_ENV",process.env.NODE_ENV);
 	 
  }else{
      
-	 url =  "http://v3.fgimax.vipnps.vip"
+	 // url =  "http://v3.fgimax.vipnps.vip"
+	 url =  "https://5v936kf.nat.ipyingshe.com"
 	 
  }
 

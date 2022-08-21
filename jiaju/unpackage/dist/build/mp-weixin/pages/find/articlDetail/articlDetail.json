@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "乐居",
+  "navigationBarTitleText": "家居",
   "enablePullDownRefresh": false,
   "usingComponents": {
     "mp-html": "/uni_modules/mp-html/components/mp-html/mp-html"

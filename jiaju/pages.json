@@ -73,7 +73,7 @@
 			"path": "pages/my/register/register",
 		"style" :
 		{
-		    "navigationBarTitleText": "乐居",
+		    "navigationBarTitleText": "家居",
 		    "enablePullDownRefresh": false
 		}
 
@@ -81,7 +81,7 @@
 			"path": "pages/my/address/address",
 		"style" :
 		{
-		    "navigationBarTitleText": "乐居",
+		    "navigationBarTitleText": "家居",
 		    "enablePullDownRefresh": false
 		}
 
@@ -89,14 +89,14 @@
 			"path": "pages/my/shoppingcart/shoppingcart",
 			"style" :
 			{
-			    "navigationBarTitleText": "乐居",
+			    "navigationBarTitleText": "家居",
 			    "enablePullDownRefresh": false
 			}
 		}, {
 			"path": "pages/my/myorder/myorder",
 			"style" :
 			{
-			    "navigationBarTitleText": "乐居",
+			    "navigationBarTitleText": "家居",
 			    "enablePullDownRefresh": false
 			}
 
@@ -104,7 +104,7 @@
 			"path": "pages/my/goodscollect/goodscollect",
 			"style" :
 			{
-			    "navigationBarTitleText": "乐居",
+			    "navigationBarTitleText": "家居",
 			    "enablePullDownRefresh": false
 			}
 
@@ -112,7 +112,7 @@
 			"path": "pages/my/addAddress/addAddress",
 		"style" :
 		{
-		    "navigationBarTitleText": "乐居",
+		    "navigationBarTitleText": "家居",
 		    "enablePullDownRefresh": false
 		}
 
@@ -121,7 +121,7 @@
             "path" : "pages/my/updatainfomation/updatainfomation",
           "style" :
           {
-              "navigationBarTitleText": "乐居",
+              "navigationBarTitleText": "家居",
               "enablePullDownRefresh": false
           }
             
@@ -130,7 +130,7 @@
             "path" : "pages/my/articleList/articleList",
          "style" :
          {
-             "navigationBarTitleText": "乐居",
+             "navigationBarTitleText": "家居",
              "enablePullDownRefresh": false
          }
             
@@ -139,7 +139,7 @@
             "path" : "pages/channel/channel",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "乐居",
+                "navigationBarTitleText": "家居",
                 "enablePullDownRefresh": false
             }
             
@@ -148,7 +148,7 @@
             "path" : "pages/goodsdetail/goodsdetail",
          "style" :
          {
-             "navigationBarTitleText": "乐居",
+             "navigationBarTitleText": "家居",
              "enablePullDownRefresh": false
          }
             
@@ -189,7 +189,7 @@
             "path" : "pages/find/articlDetail/articlDetail",
            "style" :
            {
-               "navigationBarTitleText": "乐居",
+               "navigationBarTitleText": "家居",
                "enablePullDownRefresh": false
            }
             
@@ -198,7 +198,7 @@
             "path" : "pages/my/myorder/editorRefundInfo/editorRefundInfo",
          "style" :
          {
-             "navigationBarTitleText": "乐居",
+             "navigationBarTitleText": "家居",
              "enablePullDownRefresh": false
          }
             
@@ -207,7 +207,7 @@
             "path" : "pages/my/myorder/checkRefundInfo/checkRefundInfo",
        "style" :
        {
-           "navigationBarTitleText": "乐居",
+           "navigationBarTitleText": "家居",
            "enablePullDownRefresh": false
        }
             
@@ -242,7 +242,7 @@
 	},
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
-		"navigationBarTitleText": "乐 居",
+		"navigationBarTitleText": "家 居",
 		"navigationBarBackgroundColor": "#354E44",
 		"backgroundColor": "#F1ECE7"
 	}
